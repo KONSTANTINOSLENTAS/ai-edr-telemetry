@@ -8,7 +8,7 @@
 An event-driven Endpoint Detection and Response (EDR) simulation that leverages Generative AI to act as a Tier-1 SOC analyst. This project ingests raw endpoint telemetry, processes it through an Azure Storage Queue, and uses GPT-4o-mini to provide natural-language risk scoring and contextual analysis in real-time.
 
 > 
-[Watch the 60-second Demo Video Here]
+[[Watch the 60-second Demo Video Here](https://github.com/user-attachments/assets/9df3872e-6946-41fc-a45d-a74c80fb3396)]
 ---
 
 ##  Key Features
@@ -37,4 +37,8 @@ An event-driven Endpoint Detection and Response (EDR) simulation that leverages 
 * [Azure Functions Core Tools](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local) installed
 * An OpenAI API Key
 * An Azure Storage Account (or Azurite local emulator)
+
+
+
+https://github.com/user-attachments/assets/9df3872e-6946-41fc-a45d-a74c80fb3396
 
